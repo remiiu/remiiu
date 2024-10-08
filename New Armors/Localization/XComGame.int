@@ -1,0 +1,234 @@
+
+[LightKevlarArmor X2ArmorTemplate]
+
+FriendlyName="Kevlar Vest"
+BriefSummary="A lightly built vest of kevlar, sacrificing protection for incresed mobility and evasion."
+TacticalText="<Bullet/> Less health. \n <Bullet/> Increased mobility. \n <Bullet/> Increased dodge chance. \n "
+
+
+
+[HeavyKevlarArmor X2ArmorTemplate]
+
+FriendlyName="Reinforced Kevlar"
+BriefSummary="A bulkier varient of Kevlar lined with asbestos and carbon nanofiber."
+TacticalText="<Bullet/> More health. \n <Bullet/> Decresed mobility. \n <Bullet/> Decreased dodge chance. \n <Bullet/> Light armor. \n"
+
+
+
+[TechKevlarArmor X2ArmorTemplate]
+
+FriendlyName="Gremlin Kevlar"
+BriefSummary="A tech filled variant of standard Kevlar armor for increase feild cyberwarfare."
+TacticalText="<Bullet/> Less health \n <Bullet/> Decresed dodge. \n <Bullet/> Decresed mobility. \n <Bullet/> Increased hack \n <Bullet/> Increased defence \n"
+
+
+
+[PlatedTechArmor X2ArmorTemplate]
+
+FriendlyName="Gremlin Suit"
+BriefSummary="A plated suit of armor, with GREMLIN software integrated with mechanized servos to provide advanced field cyber warfare."
+TacticalText="<Bullet/> Slight Sheilding \n <Bullet/> Decresed dodge. \n <Bullet/> Decresed mobility. \n <Bullet/> Increased hack \n <Bullet/> Increased defence \n"
+
+
+
+[PlatedEagleArmor X2ArmorTemplate]
+
+FriendlyName="Eagle Suit"
+BriefSummary="A lightly plated suit designed for mobility and accuracy on the feild."
+TacticalText="<Bullet/> Increased mobility. \n <Bullet/> Increased dodge \n <Bullet/> Increased accuracy. \n <Bullet/> Increased criticle chance. \n "
+
+
+
+[PlatedJuggernautArmor X2ArmorTemplate]
+
+FriendlyName="Juggernaut Suit"
+BriefSummary="A heavily plated suit desidned for protection and itimidation on the feild."
+TacticalText="<Bullet/> Moderate armor \n <Bullet/> Decresed dodge. \n <Bullet/> Decresed mobility. \n <Bullet/> Increased health. \n"
+
+
+
+[PlatedChemArmor X2ArmorTemplate]
+
+FriendlyName="Combat Stim Suit"
+BriefSummary="A mechanized suit pumping combat drugs throught the soilder for increased preformace, but forced downtaime after the mission"
+TacticalText="<Bullet/> Increased mobility. \n <Bullet/> Increased dodge \n <Bullet/> Increased accuracy. \n <Bullet/> Increased criticle chance. \n <Bullet/> Will be injured after mission \n"
+
+
+
+[PlatedPsiArmor X2ArmorTemplate]
+
+FriendlyName="Psionic Suit"
+BriefSummary="A heavily plated suit desidned for protection and itimidation on the feild."
+TacticalText="<Bullet/> Increased Will \n <Bullet/> Increased sight range. \n <Bullet/> Improved Psionic damage. \n "
+
+
+
+[PoweredTechArmor X2ArmorTemplate]
+
+FriendlyName="Powered Gremlin Suit"
+BriefSummary="<To be filled in>"
+TacticalText=""
+
+
+
+[PoweredEagleArmor X2ArmorTemplate]
+
+FriendlyName="Powered Eagle Suit"
+BriefSummary="Allows you to move quickly, but not fly :("
+TacticalText=""
+
+
+
+[PoweredJuggernautArmor X2ArmorTemplate]
+
+FriendlyName="Powered Juggernaut Suit"
+BriefSummary="A fancy name for a walking tank, which is what you will be!"
+TacticalText=""
+
+
+
+[PoweredChemArmor X2ArmorTemplate]
+
+FriendlyName="Combat Stim Suit"
+BriefSummary="A drug addicts dream, improved benifits and long term consequences!"
+TacticalText=""
+
+
+
+[PoweredPsionicArmor X2ArmorTemplate]
+
+FriendlyName="Psionic Suit"
+BriefSummary="To make your psionic soldiers the true gods of the battlefeild"
+TacticalText=""
+
+
+
+
+
+
+
+
+
+[ResupplyLightKevlar X2TechTemplate]
+
+	DisplayName = Order Light Kevlar
+	CodeName= Walmart
+	Summary= Put in a requisition request to our outside supplier
+	LongDescription = Put in a requisition request to our outside supplier
+
+
+
+[ResupplyHeavyKevlar X2TechTemplate]
+
+	DisplayName = Order Heavy Kevlar
+	CodeName= Walmart
+	Summary= Put in a requisition request to our outside supplier
+	LongDescription = Put in a requisition request to our outside supplier
+
+
+
+[ResupplyTechKevlar X2TechTemplate]
+
+	DisplayName = Order Gremlin Kevlar
+	CodeName= Walmart
+	Summary= Put in a requisition request to our outside supplier
+	LongDescription = Put in a requisition request to our outside supplier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[GremlinSuit X2TechTemplate]
+
+	DisplayName = Gremlin Suit
+	CodeName= Antivirus
+	Summary= An immproved version of our Gremlin Kevlar, with better protection and hacking abilities.
+	LongDescription = A variant of the predator armor that included prototype sheild technology and improved cyberwarfare capabilities.
+	TUnlockedDescription = With a robotics fetish,\n	Tygan
+
+[EagleSuit X2TechTemplate]
+
+	DisplayName = Eagle Suit
+	CodeName= Eyes in the sky
+	Summary = "A light mechanized suit that sports mobility and deadly accuracy."
+	LongDescription = A light suit with an augmented visor and recoil suppressors in the arms to allow more accurate shots in more vital regions.
+	UnlockedDescription = With extreme patriotism,\n	Bradford
+
+[JuggernautSuit X2TechTemplate]
+
+	DisplayName = Juggernaut Suit
+	CodeName = Heavy Duty
+	Summary = A heavier variant of the EXO suit with better plating, but less mobility and utility.
+	LongDescription = A heavier variant of the EXO suit with thicker plates and servos to allow mobility.
+	UnlockedDescription = With soul crushing power,\n	Shen
+
+[PsiSuit X2TechTemplate]
+
+	DisplayName = Psionic Suit
+	CodeName = Mind Robe
+	Summary = A plated armor used to increase psionic capabilities.
+	LongDescription = A suit imbeded with prototype psionic amps and complimetary music ear phones installed to enforce phocus and increased psionic capability., even embuing effects on non psionic soilders.
+	UnlockedDescription = With mindpoweres,\n	Shen
+
+[PlatedChemSuit X2TechTemplate]
+
+	DisplayName = Combat Stim Suit
+	CodeName = Liquid Courage
+	Summary = A lighty plated suit with an automatic chemical delivery sytstem to administer combat drugs in the feild. While it increases effectiveness, it forces the soilder to take downtime afterwards.
+	LongDescription = Preadator armor augmented with chemical injectors and body regulators with overdrive serrum and medkit fluids.
+	UnlockedDescription = With love, \n		Tygan.
+
+
+
+[PoweredGremlinSuit X2TechTemplate]
+
+	DisplayName = Powered Gremlin Suit
+	CodeName= Malware Plus 
+	Summary= An enhanced variant of our specialty gremlin suit
+	LongDescription = We took the warden's basic design and fused it with the codex's teleportaion ability, at great cost of course. <Dev warning> the teleportation ability does not have an animation and will cause a 2 redscreen erros per use, other than that it functions noramly, use at your own risk.<Dev warning>
+	UnlockedDescription = With comic books\n	Tygan
+
+
+[PoweredEagleSuit X2TechTemplate]
+
+	DisplayName = Powered Eagle Suit
+	CodeName= Armored Freedom
+	Summary = Bradford thought what could be cooler than a metal eagle? An alien sci-fi metal eagle. Turns out he was right.
+	LongDescription = This armor enahnces user sight with holographic targeting, for better accuracy for vital locations, and improving the soldiers reflexes.
+	UnlockedDescription = With freedoms,\n		Bradford
+
+[PoweredJuggernautSuit X2TechTemplate]
+
+	DisplayName = Powered Juggernaut Suit
+	CodeName = The Buster
+	Summary = Turns out Tygan is an even bigger Marvel nerd than we thought...
+	LongDescription = This suit combined the heavily armored plating of the WAR suit with... even more plating. It increases armor and health dramadicly at expensive costs and pathetic mobility
+	UnlockedDescription = With dreams of destruction\n Tygan
+
+[PoweredPsiSuit X2TechTemplate]
+
+	DisplayName = Powered Psionic Suit
+	CodeName = Mind and Metal
+	Summary = Bradford like the original but wanted more punch, so Shen punched him in the face and designed this 3 days later
+	LongDescription = This suit integrated the gooey remains of a gate keeper with rock and roll music to increase the soilders confidence and psionic potenital though attacks
+	UnlockedDescription = With suerhero envy\n	Tygan
+
+[PoweredChemSuit X2TechTemplate]
+
+	DisplayName = Powered Combat Stim Suit
+	CodeName = Metallica Rave
+	Summary = The result of Tygan's free night and confiscated narcotics from soldiers'
+	LongDescription = This suit uses several chemicals to improve solider capabilities on the feild, but causes extreme stress, forcing downtime afterwards.
+	UnlockedDescription = With rehab clinics\n	Shen
+

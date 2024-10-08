@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>b24b69f5-2820-477b-add7-0f46a7762a5c</Guid>
+    <Name>New Armors</Name>
+    <Description>adds armors. (Hopefully)</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>New Armors</AssemblyName>
+    <RootNamespace>New Armors</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Localization\" />
+    <Folder Include="Src\" />
+    <Folder Include="Src\NewArmors\" />
+    <Folder Include="Src\NewArmors\Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config\XComContent.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\XComNewArmorStats.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComGame.int">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ModPreview.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ReadMe.txt" />
+    <Content Include="Config\XComEditor.ini" />
+    <Content Include="Config\XComEngine.ini" />
+    <Content Include="Config\XComGame.ini" />
+    <Content Include="Src\NewArmors\Classes\AddToActiveGame.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\NewArmors\Classes\Armor_Stats.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\NewArmors\Classes\Armor_UI.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\NewArmors\Classes\New_Techs_And_Proving_Ground_Projects.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\NewArmors\Classes\X2Item_ArmorMeshOverrides.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\NewArmors\Classes\X2Item_ModArmorDeclaration.uc">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
+</Project>

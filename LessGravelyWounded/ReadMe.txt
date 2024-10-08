@@ -1,0 +1,1 @@
+﻿Decreases wound frequency and severity by changing the wound damage thresholds - wounds should be a bit less ridiculous now!

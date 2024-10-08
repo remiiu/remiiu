@@ -1,0 +1,1161 @@
+[Country_MNMAlgeria X2CountryTemplate]
+DisplayName="Argelia"
+DisplayNameWithArticle="Argelia"
+DisplayNameWithArticleLower="Argelia"
+DisplayNamePossessive="de Argelia"
+DisplayAdjective="de Argelia"
+
+[Country_MNMAngola X2CountryTemplate]
+DisplayName="Angola"
+DisplayNameWithArticle="Angola"
+DisplayNameWithArticleLower="Angola"
+DisplayNamePossessive="de Angola"
+DisplayAdjective="de Angola"
+
+[Country_MNMAustria X2CountryTemplate]
+DisplayName="Austria"
+DisplayNameWithArticle="Austria"
+DisplayNameWithArticleLower="Austria"
+DisplayNamePossessive="de Austria"
+DisplayAdjective="de Austria"
+
+[Country_MNMAzerbaijan X2CountryTemplate]
+DisplayName="Azerbaiyán"
+DisplayNameWithArticle="Azerbaiyán"
+DisplayNameWithArticleLower="Azerbaiyán"
+DisplayNamePossessive="de Azerbaiyán"
+DisplayAdjective="de Azerbaiyán"
+
+[Country_MNMBangladesh X2CountryTemplate]
+DisplayName="Bangladesh"
+DisplayNameWithArticle="Bangladesh"
+DisplayNameWithArticleLower="Bangladesh"
+DisplayNamePossessive="de Bangladesh"
+DisplayAdjective="de Bangladesh"
+
+[Country_MNMBelarus X2CountryTemplate]
+DisplayName="Bielorrusia"
+DisplayNameWithArticle="Bielorrusia"
+DisplayNameWithArticleLower="Bielorrusia"
+DisplayNamePossessive="Bielorrusia"
+DisplayAdjective="de Bielorrusia"
+
+[Country_MNMBulgaria X2CountryTemplate]
+DisplayName="Bulgaria"
+DisplayNameWithArticle="Bulgaria"
+DisplayNameWithArticleLower="Bulgaria"
+DisplayNamePossessive="de Bulgaria"
+DisplayAdjective="de Bulgaria"
+
+[Country_MNMCambodia X2CountryTemplate]
+DisplayName="Camboya"
+DisplayNameWithArticle="Camboya"
+DisplayNameWithArticleLower="Camboya"
+DisplayNamePossessive="de Camboya"
+DisplayAdjective="de Camboya"
+
+[Country_MNMChile X2CountryTemplate]
+DisplayName="Chile"
+DisplayNameWithArticle="Chile"
+DisplayNameWithArticleLower="Chile"
+DisplayNamePossessive="de Chile"
+DisplayAdjective="de Chile"
+
+[Country_MNMCroatia X2CountryTemplate]
+DisplayName="Croacia"
+DisplayNameWithArticle="Croacia"
+DisplayNameWithArticleLower="Croacia"
+DisplayNamePossessive="de Croacia"
+DisplayAdjective="de Croacia"
+
+[Country_MNMCuba X2CountryTemplate]
+DisplayName="Cuba"
+DisplayNameWithArticle="Cuba"
+DisplayNameWithArticleLower="Cuba"
+DisplayNamePossessive="de Cuba"
+DisplayAdjective="de Cuba"
+
+[Country_MNMCzechRepublic X2CountryTemplate]
+DisplayName="República Checa"
+DisplayNameWithArticle="La República Checa"
+DisplayNameWithArticleLower="la República Checa"
+DisplayNamePossessive="de República Checa"
+DisplayAdjective="de República Checa"
+
+[Country_MNMDenmark X2CountryTemplate]
+DisplayName="Dinamarca"
+DisplayNameWithArticle="Dinamarca"
+DisplayNameWithArticleLower="Dinamarca"
+DisplayNamePossessive="de Dinamarca"
+DisplayAdjective="de Dinamarca"
+
+[Country_MNMDRCongo X2CountryTemplate]
+DisplayName="RD Congo"
+DisplayNameWithArticle="RD Congo"
+DisplayNameWithArticleLower="RD Congo"
+DisplayNamePossessive="de RD Congo"
+DisplayAdjective="de RD Congo"
+
+[Country_MNMEcuador X2CountryTemplate]
+DisplayName="Ecuador"
+DisplayNameWithArticle="Ecuador"
+DisplayNameWithArticleLower="Ecuador"
+DisplayNamePossessive="de Ecuador"
+DisplayAdjective="de Ecuador"
+
+[Country_MNMEritrea X2CountryTemplate]
+DisplayName="Eritrea"
+DisplayNameWithArticle="Eritrea"
+DisplayNameWithArticleLower="Eritrea"
+DisplayNamePossessive="de Eritrea"
+DisplayAdjective="de Eritrea"
+
+[Country_MNMEstonia X2CountryTemplate]
+DisplayName="Estonia"
+DisplayNameWithArticle="Estonia"
+DisplayNameWithArticleLower="Estonia"
+DisplayNamePossessive="de Estonia"
+DisplayAdjective="de Estonia"
+
+[Country_MNMEthiopia X2CountryTemplate]
+DisplayName="Etiopía"
+DisplayNameWithArticle="Etiopía"
+DisplayNameWithArticleLower="Etiopía"
+DisplayNamePossessive="de Etiopía"
+DisplayAdjective="de Etiopía"
+
+[Country_MNMFinland X2CountryTemplate]
+DisplayName="Finlandia"
+DisplayNameWithArticle="Finlandia"
+DisplayNameWithArticleLower="Finlandia"
+DisplayNamePossessive="de Finlandia"
+DisplayAdjective="de Finlandia"
+
+[Country_MNMHungary X2CountryTemplate]
+DisplayName="Hungría"
+DisplayNameWithArticle="Hungría"
+DisplayNameWithArticleLower="Hungría"
+DisplayNamePossessive="de Hungría"
+DisplayAdjective="de Hungría"
+
+[Country_MNMIraq X2CountryTemplate]
+DisplayName="Irak"
+DisplayNameWithArticle="Irak"
+DisplayNameWithArticleLower="Irak"
+DisplayNamePossessive="de Irak"
+DisplayAdjective="de Irak"
+
+[Country_MNMJordan X2CountryTemplate]
+DisplayName="Jordania"
+DisplayNameWithArticle="Jordania"
+DisplayNameWithArticleLower="Jordania"
+DisplayNamePossessive="de Jordania"
+DisplayAdjective="de Jordania"
+
+[Country_MNMKuwait X2CountryTemplate]
+DisplayName="Kuwait"
+DisplayNameWithArticle="Kuwait"
+DisplayNameWithArticleLower="Kuwait"
+DisplayNamePossessive="de Kuwait"
+DisplayAdjective="de Kuwait"
+
+[Country_MNMLatvia X2CountryTemplate]
+DisplayName="Letonia"
+DisplayNameWithArticle="Letonia"
+DisplayNameWithArticleLower="Letonia"
+DisplayNamePossessive="de Letonia"
+DisplayAdjective="de Letonia"
+
+[Country_MNMLebanon X2CountryTemplate]
+DisplayName="Líbano"
+DisplayNameWithArticle="El Líbano"
+DisplayNameWithArticleLower="el Líbano"
+DisplayNamePossessive="del Líbano"
+DisplayAdjective="del Líbano"
+
+[Country_MNMLibya X2CountryTemplate]
+DisplayName="Libia"
+DisplayNameWithArticle="Libia"
+DisplayNameWithArticleLower="Libia"
+DisplayNamePossessive="de Libia"
+DisplayAdjective="de Libia"
+
+[Country_MNMLithuania X2CountryTemplate]
+DisplayName="Lituania"
+DisplayNameWithArticle="Lituania"
+DisplayNameWithArticleLower="Lituania"
+DisplayNamePossessive="de Lituania"
+DisplayAdjective="de Lituania"
+
+[Country_MNMMalaysia X2CountryTemplate]
+DisplayName="Malasia"
+DisplayNameWithArticle="Malasia"
+DisplayNameWithArticleLower="Malasia"
+DisplayNamePossessive="de Malasia"
+DisplayAdjective="de Malasia"
+
+[Country_MNMMorocco X2CountryTemplate]
+DisplayName="Marruecos"
+DisplayNameWithArticle="Marruecos"
+DisplayNameWithArticleLower="Marruecos"
+DisplayNamePossessive="de Marruecos"
+DisplayAdjective="de Marruecos"
+
+[Country_MNMMyanmar X2CountryTemplate]
+DisplayName="Myanmar"
+DisplayNameWithArticle="Myanmar"
+DisplayNameWithArticleLower="Myanmar"
+DisplayNamePossessive="de Myanmar"
+DisplayAdjective="de Myanmar"
+
+[Country_MNMNewZealand X2CountryTemplate]
+DisplayName="Nueva Zelanda"
+DisplayNameWithArticle="Nueva Zelanda"
+DisplayNameWithArticleLower="Nueva Zelanda"
+DisplayNamePossessive="de Nueva Zelanda"
+DisplayAdjective="de Nueva Zelanda"
+
+[Country_MNMOman X2CountryTemplate]
+DisplayName="Oman"
+DisplayNameWithArticle="Oman"
+DisplayNameWithArticleLower="Oman"
+DisplayNamePossessive="de Oman"
+DisplayAdjective="de Oman"
+
+[Country_MNMPalestine X2CountryTemplate]
+DisplayName="Palestina"
+DisplayNameWithArticle="Palestina"
+DisplayNameWithArticleLower="Palestina"
+DisplayNamePossessive="de Palestina"
+DisplayAdjective="de Palestina"
+
+[Country_MNMPeru X2CountryTemplate]
+DisplayName="Perú"
+DisplayNameWithArticle="Perú"
+DisplayNameWithArticleLower="Perú"
+DisplayNamePossessive="de Perú"
+DisplayAdjective="de Perú"
+
+[Country_MNMPhilippines X2CountryTemplate]
+DisplayName="Filipinas"
+DisplayNameWithArticle="Filipinas"
+DisplayNameWithArticleLower="Filipinas"
+DisplayNamePossessive="de Filipinas"
+DisplayAdjective="de Filipinas"
+
+[Country_MNMRomania X2CountryTemplate]
+DisplayName="Rumania"
+DisplayNameWithArticle="Rumania"
+DisplayNameWithArticleLower="Rumania"
+DisplayNamePossessive="de Rumania"
+DisplayAdjective="de Rumania"
+
+[Country_MNMSaudiArabia X2CountryTemplate]
+DisplayName="Arabia Saudita"
+DisplayNameWithArticle="Arabia Saudita"
+DisplayNameWithArticleLower="Arabia Saudita"
+DisplayNamePossessive="de Arabia Saudita"
+DisplayAdjective="de Arabia Saudita"
+
+[Country_MNMSerbia X2CountryTemplate]
+DisplayName="Serbia"
+DisplayNameWithArticle="Serbia"
+DisplayNameWithArticleLower="Serbia"
+DisplayNamePossessive="de Serbia"
+DisplayAdjective="de Serbia"
+
+[Country_MNMSingapore X2CountryTemplate]
+DisplayName="Singapur"
+DisplayNameWithArticle="Singapur"
+DisplayNameWithArticleLower="Singapur"
+DisplayNamePossessive="de Singapur"
+DisplayAdjective="de Singapur"
+
+[Country_MNMSlovakia X2CountryTemplate]
+DisplayName="Eslovaquia"
+DisplayNameWithArticle="Eslovaquia"
+DisplayNameWithArticleLower="Eslovaquia"
+DisplayNamePossessive="de Eslovaquia"
+DisplayAdjective="de Eslovaquia"
+
+[Country_MNMSouthSudan X2CountryTemplate]
+DisplayName="Sudán del Sur"
+DisplayNameWithArticle="Sudán del Sur"
+DisplayNameWithArticleLower="Sudán del Sur"
+DisplayNamePossessive="de Sudán del Sur"
+DisplayAdjective="de Sudán del Sur"
+
+[Country_MNMSriLanka X2CountryTemplate]
+DisplayName="Sri Lanka"
+DisplayNameWithArticle="Sri Lanka"
+DisplayNameWithArticleLower="Sri Lanka"
+DisplayNamePossessive="de Sri Lanka"
+DisplayAdjective="de Sri Lanka"
+
+[Country_MNMSudan X2CountryTemplate]
+DisplayName="Sudán"
+DisplayNameWithArticle="Sudán"
+DisplayNameWithArticleLower="Sudán"
+DisplayNamePossessive="de Sudán"
+DisplayAdjective="de Sudán"
+
+[Country_MNMSwitzerland X2CountryTemplate]
+DisplayName="Suiza"
+DisplayNameWithArticle="Suiza"
+DisplayNameWithArticleLower="Suiza"
+DisplayNamePossessive="de Suiza"
+DisplayAdjective="de Suiza"
+
+[Country_MNMSyria X2CountryTemplate]
+DisplayName="Siria"
+DisplayNameWithArticle="Siria"
+DisplayNameWithArticleLower="Siria"
+DisplayNamePossessive="de Siria"
+DisplayAdjective="de Siria"
+
+[Country_MNMTaiwan X2CountryTemplate]
+DisplayName="Taiwán"
+DisplayNameWithArticle="Taiwán"
+DisplayNameWithArticleLower="Taiwán"
+DisplayNamePossessive="de Taiwán"
+DisplayAdjective="de Taiwán"
+
+[Country_MNMThailand X2CountryTemplate]
+DisplayName="Tailandia"
+DisplayNameWithArticle="Tailandia"
+DisplayNameWithArticleLower="Tailandia"
+DisplayNamePossessive="de Tailandia"
+DisplayAdjective="de Tailandia"
+
+[Country_MNMUAE X2CountryTemplate]
+DisplayName="Emiratos Árabes Unidos"
+DisplayNameWithArticle="Los Emiratos Árabes"
+DisplayNameWithArticleLower="los Emiratos Árabes"
+DisplayNamePossessive="de los Emiratos Árabes"
+DisplayAdjective="de los Emiratos Árabes"
+
+[Country_MNMVietnam X2CountryTemplate]
+DisplayName="Vietnam"
+DisplayNameWithArticle="Vietnam"
+DisplayNameWithArticleLower="Vietnam"
+DisplayNamePossessive="de Vietnam"
+DisplayAdjective="de Vietnam"
+
+[Country_MNMWales X2CountryTemplate]
+DisplayName="Gales"
+DisplayNameWithArticle="Gales"
+DisplayNameWithArticleLower="Gales"
+DisplayNamePossessive="de Gales"
+DisplayAdjective="de Gales"
+
+[Country_MNMYemen X2CountryTemplate]
+DisplayName="Yemen"
+DisplayNameWithArticle="Yemen"
+DisplayNameWithArticleLower="Yemen"
+DisplayNamePossessive="de Yemen"
+DisplayAdjective="de Yemen"
+
+[Country_MNMArmenia X2CountryTemplate]
+DisplayName="Armenia"
+DisplayNameWithArticle="Armenia"
+DisplayNameWithArticleLower="Armenia"
+DisplayNamePossessive="de Armenia"
+DisplayAdjective="de Armenia"
+
+[Country_MNMBolivia X2CountryTemplate]
+DisplayName="Bolivia"
+DisplayNameWithArticle="Bolivia"
+DisplayNameWithArticleLower="Bolivia"
+DisplayNamePossessive="de Bolivia"
+DisplayAdjective="de Bolivia"
+
+[Country_MNMCostaRica X2CountryTemplate]
+DisplayName="Costa Rica"
+DisplayNameWithArticle="Costa Rica"
+DisplayNameWithArticleLower="Costa Rica"
+DisplayNamePossessive="de Costa Rica"
+DisplayAdjective="de Costa Rica"
+
+[Country_MNMDominicanRep X2CountryTemplate]
+DisplayName="República Dominicana"
+DisplayNameWithArticle="La República Dominicana"
+DisplayNameWithArticleLower="la República Dominicana"
+DisplayNamePossessive="de República Dominicana"
+DisplayAdjective="de República Dominicana"
+
+[Country_MNMGeorgia X2CountryTemplate]
+DisplayName="Georgia"
+DisplayNameWithArticle="Georgia"
+DisplayNameWithArticleLower="Georgia"
+DisplayNamePossessive="de Georgia"
+DisplayAdjective="de Georgia"
+
+[Country_MNMGuatemala X2CountryTemplate]
+DisplayName="Guatemala"
+DisplayNameWithArticle="Guatemala"
+DisplayNameWithArticleLower="Guatemala"
+DisplayNamePossessive="de Guatemala"
+DisplayAdjective="de Guatemala"
+
+[Country_MNMIvoryCoast X2CountryTemplate]
+DisplayName="Costa de Marfil"
+DisplayNameWithArticle="Costa de Marfil"
+DisplayNameWithArticleLower="Costa de Marfil"
+DisplayNamePossessive="de Costa de Marfil"
+DisplayAdjective="de Costa de Marfil"
+
+[Country_MNMKazakhstan X2CountryTemplate]
+DisplayName="Kazajistán"
+DisplayNameWithArticle="Kazajistán"
+DisplayNameWithArticleLower="Kazajistán"
+DisplayNamePossessive="de Kazajistán"
+DisplayAdjective="de Kazajistán"
+
+[Country_MNMKenya X2CountryTemplate]
+DisplayName="Kenia"
+DisplayNameWithArticle="Kenia"
+DisplayNameWithArticleLower="Kenia"
+DisplayNamePossessive="de Kenia"
+DisplayAdjective="de Kenia"
+
+[Country_MNMNepal X2CountryTemplate]
+DisplayName="Nepal"
+DisplayNameWithArticle="Nepal"
+DisplayNameWithArticleLower="Nepal"
+DisplayNamePossessive="de Nepal"
+DisplayAdjective="de Nepal"
+
+[Country_MNMPanama X2CountryTemplate]
+DisplayName="Panamá"
+DisplayNameWithArticle="Panamá"
+DisplayNameWithArticleLower="Panamá"
+DisplayNamePossessive="de Panamá"
+DisplayAdjective="de Panamá"
+
+[Country_MNMParaguay X2CountryTemplate]
+DisplayName="Paraguay"
+DisplayNameWithArticle="Paraguay"
+DisplayNameWithArticleLower="Paraguay"
+DisplayNamePossessive="de Paraguay"
+DisplayAdjective="de Paraguay"
+
+[Country_MNMQatar X2CountryTemplate]
+DisplayName="Qatar"
+DisplayNameWithArticle="Qatar"
+DisplayNameWithArticleLower="Qatar"
+DisplayNamePossessive="de Qatar"
+DisplayAdjective="de Qatar"
+
+[Country_MNMSlovenia X2CountryTemplate]
+DisplayName="Eslovenia"
+DisplayNameWithArticle="Eslovenia"
+DisplayNameWithArticleLower="Eslovenia"
+DisplayNamePossessive="de Eslovenia"
+DisplayAdjective="de Eslovenia"
+
+[Country_MNMTanzania X2CountryTemplate]
+DisplayName="Tanzania"
+DisplayNameWithArticle="Tanzania"
+DisplayNameWithArticleLower="Tanzania"
+DisplayNamePossessive="de Tanzania"
+DisplayAdjective="de Tanzania"
+
+[Country_MNMTunisia X2CountryTemplate]
+DisplayName="Túnez"
+DisplayNameWithArticle="Túnez"
+DisplayNameWithArticleLower="Túnez"
+DisplayNamePossessive="de Túnez"
+DisplayAdjective="de Túnez"
+
+[Country_MNMUganda X2CountryTemplate]
+DisplayName="Uganda"
+DisplayNameWithArticle="Uganda"
+DisplayNameWithArticleLower="Uganda"
+DisplayNamePossessive="de Uganda"
+DisplayAdjective="de Uganda"
+
+[Country_MNMUruguay X2CountryTemplate]
+DisplayName="Uruguay"
+DisplayNameWithArticle="Uruguay"
+DisplayNameWithArticleLower="Uruguay"
+DisplayNamePossessive="de Uruguay"
+DisplayAdjective="de Uruguay"
+
+[Country_MNMUzbekistan X2CountryTemplate]
+DisplayName="Uzbekistán"
+DisplayNameWithArticle="Uzbekistán"
+DisplayNameWithArticleLower="Uzbekistán"
+DisplayNamePossessive="de Uzbekistán"
+DisplayAdjective="de Uzbekistán"
+
+[Country_MNMZimbabwe X2CountryTemplate]
+DisplayName="Zimbabwe"
+DisplayNameWithArticle="Zimbabwe"
+DisplayNameWithArticleLower="Zimbabwe"
+DisplayNamePossessive="de Zimbabwe"
+DisplayAdjective="de Zimbabwe"
+
+[Country_MNMAfghanistan X2CountryTemplate]
+DisplayName="Afganistán"
+DisplayNameWithArticle="Afganistán"
+DisplayNameWithArticleLower="Afganistán"
+DisplayNamePossessive="de Afganistán"
+DisplayAdjective="de Afganistán"
+
+[Country_MNMAlbania X2CountryTemplate]
+DisplayName="Albania"
+DisplayNameWithArticle="Albania"
+DisplayNameWithArticleLower="Albania"
+DisplayNamePossessive="de Albania"
+DisplayAdjective="de Albania"
+
+[Country_MNMBahrain X2CountryTemplate]
+DisplayName="Baréin"
+DisplayNameWithArticle="Baréin"
+DisplayNameWithArticleLower="Baréin"
+DisplayNamePossessive="de Baréin"
+DisplayAdjective="de Baréin"
+
+[Country_MNMBosnia X2CountryTemplate]
+DisplayName="Bosnia y Herzegovina"
+DisplayNameWithArticle="Bosnia y Herzegovina"
+DisplayNameWithArticleLower="Bosnia y Herzegovina"
+DisplayNamePossessive="de Bosnia y Herzegovina"
+DisplayAdjective="de Bosnia y Herzegovina"
+
+[Country_MNMBotswana X2CountryTemplate]
+DisplayName="Botswana"
+DisplayNameWithArticle="Botswana"
+DisplayNameWithArticleLower="Botswana"
+DisplayNamePossessive="de Botswana"
+DisplayAdjective="de Botswana"
+
+[Country_MNMBrunei X2CountryTemplate]
+DisplayName="Brunei"
+DisplayNameWithArticle="Brunei"
+DisplayNameWithArticleLower="Brunei"
+DisplayNamePossessive="de Brunei"
+DisplayAdjective="de Brunei"
+
+[Country_MNMBurkinaFaso X2CountryTemplate]
+DisplayName="Burkina Faso"
+DisplayNameWithArticle="Burkina Faso"
+DisplayNameWithArticleLower="Burkina Faso"
+DisplayNamePossessive="de Burkina Faso"
+DisplayAdjective="de Burkina Faso"
+
+[Country_MNMBurundi X2CountryTemplate]
+DisplayName="Burundi"
+DisplayNameWithArticle="Burundi"
+DisplayNameWithArticleLower="Burundi"
+DisplayNamePossessive="de Burundi"
+DisplayAdjective="de Burundi"
+
+[Country_MNMCameroon X2CountryTemplate]
+DisplayName="Camerún"
+DisplayNameWithArticle="Camerún"
+DisplayNameWithArticleLower="Camerún"
+DisplayNamePossessive="de Camerún"
+DisplayAdjective="de Camerún"
+
+[Country_MNMChad X2CountryTemplate]
+DisplayName="Chad"
+DisplayNameWithArticle="Chad"
+DisplayNameWithArticleLower="Chad"
+DisplayNamePossessive="de Chad"
+DisplayAdjective="de Chad"
+
+[Country_MNMCongo X2CountryTemplate]
+DisplayName="Congo"
+DisplayNameWithArticle="El Congo"
+DisplayNameWithArticleLower="el Congo"
+DisplayNamePossessive="del Congo"
+DisplayAdjective="del Congole"
+
+[Country_MNMCyprus X2CountryTemplate]
+DisplayName="Chipre"
+DisplayNameWithArticle="Chipre"
+DisplayNameWithArticleLower="Chipre"
+DisplayNamePossessive="de Chipre"
+DisplayAdjective="de Chipre"
+
+[Country_MNMElSalvador X2CountryTemplate]
+DisplayName="El Salvador"
+DisplayNameWithArticle="El Salvador"
+DisplayNameWithArticleLower="El Salvador"
+DisplayNamePossessive="de El Salvador"
+DisplayAdjective="de El Salvador"
+
+[Country_MNMGhana X2CountryTemplate]
+DisplayName="Ghana"
+DisplayNameWithArticle="Ghana"
+DisplayNameWithArticleLower="Ghana"
+DisplayNamePossessive="de Ghana"
+DisplayAdjective="de Ghana"
+
+[Country_MNMHonduras X2CountryTemplate]
+DisplayName="Honduras"
+DisplayNameWithArticle="Honduras"
+DisplayNameWithArticleLower="Honduras"
+DisplayNamePossessive="de Honduras"
+DisplayAdjective="de Honduras"
+
+[Country_MNMIceland X2CountryTemplate]
+DisplayName="Islandia"
+DisplayNameWithArticle="Islandia"
+DisplayNameWithArticleLower="Islandia"
+DisplayNamePossessive="de Islandia"
+DisplayAdjective="de Islandia"
+
+[Country_MNMKyrgyzstan X2CountryTemplate]
+DisplayName="Kirguistán"
+DisplayNameWithArticle="Kirguistán"
+DisplayNameWithArticleLower="Kirguistán"
+DisplayNamePossessive="de Kirguistán"
+DisplayAdjective="de Kirguistán"
+
+[Country_MNMLaos X2CountryTemplate]
+DisplayName="Laos"
+DisplayNameWithArticle="Laos"
+DisplayNameWithArticleLower="Laos"
+DisplayNamePossessive="de Laos"
+DisplayAdjective="de Laos"
+
+[Country_MNMMadagascar X2CountryTemplate]
+DisplayName="Madagascar"
+DisplayNameWithArticle="Madagascar"
+DisplayNameWithArticleLower="Madagascar"
+DisplayNamePossessive="de Madagascar"
+DisplayAdjective="de Madagascar"
+
+[Country_MNMMauritania X2CountryTemplate]
+DisplayName="Mauritania"
+DisplayNameWithArticle="Mauritania"
+DisplayNameWithArticleLower="Mauritania"
+DisplayNamePossessive="de Mauritania"
+DisplayAdjective="de Mauritania"
+
+[Country_MNMMongolia X2CountryTemplate]
+DisplayName="Mongolia"
+DisplayNameWithArticle="Mongolia"
+DisplayNameWithArticleLower="Mongolia"
+DisplayNamePossessive="de Mongolia"
+DisplayAdjective="de Mongolia"
+
+[Country_MNMMozambique X2CountryTemplate]
+DisplayName="Mozambique"
+DisplayNameWithArticle="Mozambique"
+DisplayNameWithArticleLower="Mozambique"
+DisplayNamePossessive="de Mozambique"
+DisplayAdjective="de Mozambique"
+
+[Country_MNMNamibia X2CountryTemplate]
+DisplayName="Namibia"
+DisplayNameWithArticle="Namibia"
+DisplayNameWithArticleLower="Namibia"
+DisplayNamePossessive="de Namibia"
+DisplayAdjective="de Namibia"
+
+[Country_MNMNorthKorea X2CountryTemplate]
+DisplayName="Corea del Norte"
+DisplayNameWithArticle="Corea del Norte"
+DisplayNameWithArticleLower="Corea del Norte"
+DisplayNamePossessive="de Corea del Norte"
+DisplayAdjective="de Corea del Norte"
+
+[Country_MNMNorthernIreland X2CountryTemplate]
+DisplayName="Irlanda del Norte"
+DisplayNameWithArticle="Irlanda del Norte"
+DisplayNameWithArticleLower="Irlanda del Norte"
+DisplayNamePossessive="de Irlanda del Norte"
+DisplayAdjective="de Irlanda del Norte"
+
+[Country_MNMRwanda X2CountryTemplate]
+DisplayName="Ruanda"
+DisplayNameWithArticle="Ruanda"
+DisplayNameWithArticleLower="Ruanda"
+DisplayNamePossessive="de Ruanda"
+DisplayAdjective="de Ruanda"
+
+[Country_MNMSenegal X2CountryTemplate]
+DisplayName="Senegal"
+DisplayNameWithArticle="Senegal"
+DisplayNameWithArticleLower="Senegal"
+DisplayNamePossessive="de Senegal"
+DisplayAdjective="de Senegal"
+
+[Country_MNMTurkmenistan X2CountryTemplate]
+DisplayName="Turkmenistán"
+DisplayNameWithArticle="Turkmenistán"
+DisplayNameWithArticleLower="Turkmenistán"
+DisplayNamePossessive="de Turkmenistán"
+DisplayAdjective="de Turkmenistán"
+
+[Country_MNMZambia X2CountryTemplate]
+DisplayName="Zambia"
+DisplayNameWithArticle="Zambia"
+DisplayNameWithArticleLower="Zambia"
+DisplayNamePossessive="de Zambia"
+DisplayAdjective="de Zambia"
+
+[Country_MNMBhutan X2CountryTemplate]
+DisplayName="Bután"
+DisplayNameWithArticle="Bután"
+DisplayNameWithArticleLower="Bután"
+DisplayNamePossessive="de Bután"
+DisplayAdjective="de Bután"
+
+[Country_MNMDjibouti X2CountryTemplate]
+DisplayName="Yibuti"
+DisplayNameWithArticle="Yibuti"
+DisplayNameWithArticleLower="Yibuti"
+DisplayNamePossessive="de Yibuti"
+DisplayAdjective="de Yibuti"
+
+[Country_MNMGabon X2CountryTemplate]
+DisplayName="Gabón"
+DisplayNameWithArticle="Gabón"
+DisplayNameWithArticleLower="Gabón"
+DisplayNamePossessive="de Gabón"
+DisplayAdjective="de Gabón"
+
+[Country_MNMGuinea X2CountryTemplate]
+DisplayName="Guinea"
+DisplayNameWithArticle="Guinea"
+DisplayNameWithArticleLower="Guinea"
+DisplayNamePossessive="de Guinea"
+DisplayAdjective="de Guinea"
+
+[Country_MNMHaiti X2CountryTemplate]
+DisplayName="Haití"
+DisplayNameWithArticle="Haití"
+DisplayNameWithArticleLower="Haití"
+DisplayNamePossessive="de Haití"
+DisplayAdjective="de Haití"
+
+[Country_MNMHongKong X2CountryTemplate]
+DisplayName="Hong Kong"
+DisplayNameWithArticle="Hong Kong"
+DisplayNameWithArticleLower="Hong Kong"
+DisplayNamePossessive="de Hong Kong"
+DisplayAdjective="de Hong Kong"
+
+[Country_MNMJamaica X2CountryTemplate]
+DisplayName="Jamaica"
+DisplayNameWithArticle="Jamaica"
+DisplayNameWithArticleLower="Jamaica"
+DisplayNamePossessive="de Jamaica"
+DisplayAdjective="de Jamaica"
+
+[Country_MNMKosovo X2CountryTemplate]
+DisplayName="Kosovo"
+DisplayNameWithArticle="Kosovo"
+DisplayNameWithArticleLower="Kosovo"
+DisplayNamePossessive="de Kosovo"
+DisplayAdjective="de Kosovo"
+
+[Country_MNMLuxembourg X2CountryTemplate]
+DisplayName="Luxemburgo"
+DisplayNameWithArticle="Luxemburgo"
+DisplayNameWithArticleLower="Luxemburgo"
+DisplayNamePossessive="de Luxemburgo"
+DisplayAdjective="de Luxemburgo"
+
+[Country_MNMMacedonia X2CountryTemplate]
+DisplayName="Macedonia"
+DisplayNameWithArticle="Macedonia"
+DisplayNameWithArticleLower="Macedonia"
+DisplayNamePossessive="de Macedonia"
+DisplayAdjective="de Macedonia"
+
+[Country_MNMMalawi X2CountryTemplate]
+DisplayName="Malawi"
+DisplayNameWithArticle="Malawi"
+DisplayNameWithArticleLower="Malawi"
+DisplayNamePossessive="de Malawi"
+DisplayAdjective="de Malawi"
+
+[Country_MNMMali X2CountryTemplate]
+DisplayName="Mali"
+DisplayNameWithArticle="Mali"
+DisplayNameWithArticleLower="Mali"
+DisplayNamePossessive="de Mali"
+DisplayAdjective="de Mali"
+
+[Country_MNMMoldova X2CountryTemplate]
+DisplayName="Moldavia"
+DisplayNameWithArticle="Moldavia"
+DisplayNameWithArticleLower="Moldavia"
+DisplayNamePossessive="de Moldavia"
+DisplayAdjective="de Moldavia"
+
+[Country_MNMMontenegro X2CountryTemplate]
+DisplayName="Montenegro"
+DisplayNameWithArticle="Montenegro"
+DisplayNameWithArticleLower="Montenegro"
+DisplayNamePossessive="de Montenegro"
+DisplayAdjective="de Montenegro"
+
+[Country_MNMNicaragua X2CountryTemplate]
+DisplayName="Nicaragua"
+DisplayNameWithArticle="Nicaragua"
+DisplayNameWithArticleLower="Nicaragua"
+DisplayNamePossessive="de Nicaragua"
+DisplayAdjective="de Nicaragua"
+
+[Country_MNMPuertoRico X2CountryTemplate]
+DisplayName="Puerto Rico"
+DisplayNameWithArticle="Puerto Rico"
+DisplayNameWithArticleLower="Puerto Rico"
+DisplayNamePossessive="de Puerto Rico"
+DisplayAdjective="de Puerto Rico"
+
+[Country_MNMSierraLeone X2CountryTemplate]
+DisplayName="Sierra Leona"
+DisplayNameWithArticle="Sierra Leona"
+DisplayNameWithArticleLower="Sierra Leona"
+DisplayNamePossessive="de Sierra Leona"
+DisplayAdjective="de Sierra Leona"
+
+[Country_MNMTajikistan X2CountryTemplate]
+DisplayName="Tayikistán"
+DisplayNameWithArticle="Tayikistán"
+DisplayNameWithArticleLower="Tayikistán"
+DisplayNamePossessive="de Tayikistán"
+DisplayAdjective="de Tayikistán"
+
+[Country_MNMTogo X2CountryTemplate]
+DisplayName="Togo"
+DisplayNameWithArticle="Togo"
+DisplayNameWithArticleLower="Togo"
+DisplayNamePossessive="de Togo"
+DisplayAdjective="de Togo"
+
+[Country_MNMTrinidad X2CountryTemplate]
+DisplayName="Trinidad y Tobago"
+DisplayNameWithArticle="Trinidad y Tobago"
+DisplayNameWithArticleLower="Trinidad y Tobago"
+DisplayNamePossessive="de Trinidad y Tobago"
+DisplayAdjective="de Trinidad y Tobago"
+
+[Country_MNMEngland X2CountryTemplate]
+DisplayName="Inglaterra"
+DisplayNameWithArticle="Inglaterra"
+DisplayNameWithArticleLower="Inglaterra"
+DisplayNamePossessive="de Inglaterra"
+DisplayAdjective="de Inglaterra"
+
+[Country_MNMAndorra X2CountryTemplate]
+DisplayName="Andorra"
+DisplayNameWithArticle="Andorra"
+DisplayNameWithArticleLower="Andorra"
+DisplayNamePossessive="de Andorra"
+DisplayAdjective="de Andorra"
+
+[Country_MNMAntigua X2CountryTemplate]
+DisplayName="Antigua y Barbuda"
+DisplayNameWithArticle="Antigua y Barbuda"
+DisplayNameWithArticleLower="Antigua y Barbuda"
+DisplayNamePossessive="de Antigua y Barbuda"
+DisplayAdjective="de Antigua y Barbuda"
+
+[Country_MNMBahamas X2CountryTemplate]
+DisplayName="Bahamas"
+DisplayNameWithArticle="Las Bahamas"
+DisplayNameWithArticleLower="las Bahamas"
+DisplayNamePossessive="de las Bahamas"
+DisplayAdjective="de las Bahamas"
+
+[Country_MNMBarbados X2CountryTemplate]
+DisplayName="Barbados"
+DisplayNameWithArticle="Barbados"
+DisplayNameWithArticleLower="Barbados"
+DisplayNamePossessive="de Barbados"
+DisplayAdjective="de Barbados"
+
+[Country_MNMBelize X2CountryTemplate]
+DisplayName="Belice"
+DisplayNameWithArticle="Belice"
+DisplayNameWithArticleLower="Belice"
+DisplayNamePossessive="de Belice"
+DisplayAdjective="de Belice"
+
+[Country_MNMBenin X2CountryTemplate]
+DisplayName="Benín"
+DisplayNameWithArticle="Benín"
+DisplayNameWithArticleLower="Benín"
+DisplayNamePossessive="de Benín"
+DisplayAdjective="de Benín"
+
+[Country_MNMCapeVerde X2CountryTemplate]
+DisplayName="Cabo Verde"
+DisplayNameWithArticle="Cabo Verde"
+DisplayNameWithArticleLower="Cabo Verde"
+DisplayNamePossessive="de Cabo Verde"
+DisplayAdjective="de Cabo Verde"
+
+[Country_MNMCAR X2CountryTemplate]
+DisplayName="República Centroafricana"
+DisplayNameWithArticle="La República Centroafricana"
+DisplayNameWithArticleLower="la República Centroafricana"
+DisplayNamePossessive="de la República Centroafricana"
+DisplayAdjective="de la República Centroafricana"
+
+[Country_MNMComoros X2CountryTemplate]
+DisplayName="Comoras"
+DisplayNameWithArticle="Las Comoras"
+DisplayNameWithArticleLower="las Comoras"
+DisplayNamePossessive="de las Comoras"
+DisplayAdjective="de las Comoras"
+
+[Country_MNMDominica X2CountryTemplate]
+DisplayName="Dominica"
+DisplayNameWithArticle="Dominica"
+DisplayNameWithArticleLower="Dominica"
+DisplayNamePossessive="de Dominica"
+DisplayAdjective="de Dominica"
+
+[Country_MNMEastTimor X2CountryTemplate]
+DisplayName="Timor Oriental"
+DisplayNameWithArticle="Timor Oriental"
+DisplayNameWithArticleLower="Timor Oriental"
+DisplayNamePossessive="de Timor Oriental"
+DisplayAdjective="de Timor Oriental"
+
+[Country_MNMEqGuinea X2CountryTemplate]
+DisplayName="Guinea Ecuatorial"
+DisplayNameWithArticle="Guinea Ecuatorial"
+DisplayNameWithArticleLower="Guinea Ecuatorial"
+DisplayNamePossessive="de Guinea Ecuatorial"
+DisplayAdjective="de Guinea Ecuatorial"
+
+[Country_MNMFiji X2CountryTemplate]
+DisplayName="Fiyi"
+DisplayNameWithArticle="Fiyi"
+DisplayNameWithArticleLower="Fiyi"
+DisplayNamePossessive="de Fiyi"
+DisplayAdjective="de Fiyi"
+
+[Country_MNMGambia X2CountryTemplate]
+DisplayName="Gambia
+DisplayNameWithArticle="Gambia"
+DisplayNameWithArticleLower="Gambia"
+DisplayNamePossessive="de Gambia"
+DisplayAdjective="de Gambia"
+
+[Country_MNMGrenada X2CountryTemplate]
+DisplayName="Granada"
+DisplayNameWithArticle="Granada"
+DisplayNameWithArticleLower="Granada"
+DisplayNamePossessive="de Granada"
+DisplayAdjective="de Granada"
+
+[Country_MNMGuineaBissau X2CountryTemplate]
+DisplayName="Guinea-Bisáu"
+DisplayNameWithArticle="Guinea-Bisáu"
+DisplayNameWithArticleLower="Guinea-Bisáu"
+DisplayNamePossessive="de Guinea-Bisáu"
+DisplayAdjective="de Guinea-Bisáu"
+
+[Country_MNMGuyana X2CountryTemplate]
+DisplayName="Guyana"
+DisplayNameWithArticle="Guyana"
+DisplayNameWithArticleLower="Guyana"
+DisplayNamePossessive="de Guyana"
+DisplayAdjective="de Guyana"
+
+[Country_MNMKiribati X2CountryTemplate]
+DisplayName="Kiribati"
+DisplayNameWithArticle="Kiribati"
+DisplayNameWithArticleLower="Kiribati"
+DisplayNamePossessive="de Kiribati"
+DisplayAdjective="de Kiribati"
+
+[Country_MNMLesotho X2CountryTemplate]
+DisplayName="Lesoto"
+DisplayNameWithArticle="Lesoto"
+DisplayNameWithArticleLower="Lesoto"
+DisplayNamePossessive="de Lesoto"
+DisplayAdjective="de Lesoto"
+
+[Country_MNMLiberia X2CountryTemplate]
+DisplayName="Liberia"
+DisplayNameWithArticle="Liberia"
+DisplayNameWithArticleLower="Liberia"
+DisplayNamePossessive="de Liberia"
+DisplayAdjective="de Liberia"
+
+[Country_MNMLiechtenstein X2CountryTemplate]
+DisplayName="Liechtenstein"
+DisplayNameWithArticle="Liechtenstein"
+DisplayNameWithArticleLower="Liechtenstein"
+DisplayNamePossessive="de Liechtenstein"
+DisplayAdjective="de Liechtenstein"
+
+[Country_MNMMaldives X2CountryTemplate]
+DisplayName="Maldivas"
+DisplayNameWithArticle="Las Maldivas"
+DisplayNameWithArticleLower="las Maldivas"
+DisplayNamePossessive="de las Maldivas"
+DisplayAdjective="de las Maldivas"
+
+[Country_MNMMalta X2CountryTemplate]
+DisplayName="Malta"
+DisplayNameWithArticle="Malta"
+DisplayNameWithArticleLower="Malta"
+DisplayNamePossessive="de Malta"
+DisplayAdjective="de Malta"
+
+[Country_MNMMarshall X2CountryTemplate]
+DisplayName="Islas Marshall"
+DisplayNameWithArticle="Las Islas Marshall"
+DisplayNameWithArticleLower="las Islas Marshall"
+DisplayNamePossessive="de las Islas Marshall"
+DisplayAdjective="de las Islas Marshall"
+
+[Country_MNMMauritius X2CountryTemplate]
+DisplayName="Mauricio"
+DisplayNameWithArticle="Mauricio"
+DisplayNameWithArticleLower="Mauricio"
+DisplayNamePossessive="de Mauricio"
+DisplayAdjective="de Mauricio"
+
+[Country_MNMMicronesia X2CountryTemplate]
+DisplayName="Micronesia"
+DisplayNameWithArticle="Micronesia"
+DisplayNameWithArticleLower="Micronesia"
+DisplayNamePossessive="de Micronesia"
+DisplayAdjective="de Micronesia"
+
+[Country_MNMMonaco X2CountryTemplate]
+DisplayName="Mónaco"
+DisplayNameWithArticle="Mónaco"
+DisplayNameWithArticleLower="Mónaco"
+DisplayNamePossessive="de Mónaco"
+DisplayAdjective="de Mónaco"
+
+[Country_MNMNauru X2CountryTemplate]
+DisplayName="Nauru"
+DisplayNameWithArticle="Nauru"
+DisplayNameWithArticleLower="Nauru"
+DisplayNamePossessive="de Nauru"
+DisplayAdjective="de Nauru"
+
+[Country_MNMNiger X2CountryTemplate]
+DisplayName="Níger"
+DisplayNameWithArticle="Níger"
+DisplayNameWithArticleLower="Níger"
+DisplayNamePossessive="de Níger"
+DisplayAdjective="de Níger"
+
+[Country_MNMPalau X2CountryTemplate]
+DisplayName="Palau"
+DisplayNameWithArticle="Palau"
+DisplayNameWithArticleLower="Palau"
+DisplayNamePossessive="de Palau"
+DisplayAdjective="de Palau"
+
+[Country_MNMPapuaNewGuinea X2CountryTemplate]
+DisplayName="Papúa Nueva Guinea"
+DisplayNameWithArticle="Papúa Nueva Guinea"
+DisplayNameWithArticleLower="Papúa Nueva Guinea"
+DisplayNamePossessive="de Papúa Nueva Guinea"
+DisplayAdjective="de Papúa Nueva Guinea"
+
+[Country_MNMStKitts X2CountryTemplate]
+DisplayName="San Cristóbal y Nieves"
+DisplayNameWithArticle="San Cristóbal y Nieves"
+DisplayNameWithArticleLower="San Cristóbal y Nieves"
+DisplayNamePossessive="de San Cristóbal y Nieves"
+DisplayAdjective="de San Cristóbal y Nieves"
+
+[Country_MNMStLucia X2CountryTemplate]
+DisplayName="Santa Lucía"
+DisplayNameWithArticle="Santa Lucía"
+DisplayNameWithArticleLower="Santa Lucía"
+DisplayNamePossessive="de Santa Lucía"
+DisplayAdjective="de Santa Lucía"
+
+[Country_MNMStVincent X2CountryTemplate]
+DisplayName="San Vicente y las Granadinas"
+DisplayNameWithArticle="San Vicente y las Granadinas"
+DisplayNameWithArticleLower="San Vicente y las Granadinas"
+DisplayNamePossessive="de San Vicente y las Granadinas"
+DisplayAdjective="de San Vicente y las Granadinas"
+
+[Country_MNMSamoa X2CountryTemplate]
+DisplayName="Samoa"
+DisplayNameWithArticle="Samoa"
+DisplayNameWithArticleLower="Samoa"
+DisplayNamePossessive="de Samoa"
+DisplayAdjective="de Samoa"
+
+[Country_MNMSanMarino X2CountryTemplate]
+DisplayName="San Marino"
+DisplayNameWithArticle="San Marino"
+DisplayNameWithArticleLower="San Marino"
+DisplayNamePossessive="de San Marino"
+DisplayAdjective="de San Marino"
+
+[Country_MNMSaoTome X2CountryTemplate]
+DisplayName="Santo Tomé y Príncipe"
+DisplayNameWithArticle="Santo Tomé y Príncipe"
+DisplayNameWithArticleLower="Santo Tomé y Príncipe"
+DisplayNamePossessive="de Santo Tomé y Príncipe"
+DisplayAdjective="de Santo Tomé y Príncipe"
+
+[Country_MNMSeychelles X2CountryTemplate]
+DisplayName="Seychelles"
+DisplayNameWithArticle="Las Seychelles"
+DisplayNameWithArticleLower="las Seychelles"
+DisplayNamePossessive="de las Seychelles"
+DisplayAdjective="de las Seychelles"
+
+[Country_MNMSolomon X2CountryTemplate]
+DisplayName="Islas Salomón"
+DisplayNameWithArticle="Las Islas Salomón"
+DisplayNameWithArticleLower="las Islas Salomón"
+DisplayNamePossessive="de las Islas Salomón"
+DisplayAdjective="de las Islas Salomón"
+
+[Country_MNMSomalia X2CountryTemplate]
+DisplayName="Somalia"
+DisplayNameWithArticle="Somalia"
+DisplayNameWithArticleLower="Somalia"
+DisplayNamePossessive="de Somalia"
+DisplayAdjective="de Somalia"
+
+[Country_MNMSuriname X2CountryTemplate]
+DisplayName="Surinam"
+DisplayNameWithArticle="Surinam"
+DisplayNameWithArticleLower="Surinam"
+DisplayNamePossessive="de Surinam"
+DisplayAdjective="de Surinam"
+
+[Country_MNMSwaziland X2CountryTemplate]
+DisplayName="Swazilandia"
+DisplayNameWithArticle="Swazilandia"
+DisplayNameWithArticleLower="Swazilandia"
+DisplayNamePossessive="de Swazilandia"
+DisplayAdjective="de Swazilandia"
+
+[Country_MNMTonga X2CountryTemplate]
+DisplayName="Tonga"
+DisplayNameWithArticle="Tonga"
+DisplayNameWithArticleLower="Tonga"
+DisplayNamePossessive="de Tonga"
+DisplayAdjective="de Tonga"
+
+[Country_MNMTuvalu X2CountryTemplate]
+DisplayName="Tuvalu"
+DisplayNameWithArticle="Tuvalu"
+DisplayNameWithArticleLower="Tuvalu"
+DisplayNamePossessive="de Tuvalu"
+DisplayAdjective="de Tuvalu"
+
+[Country_MNMVanuatu X2CountryTemplate]
+DisplayName="Vanuatu"
+DisplayNameWithArticle="Vanuatu"
+DisplayNameWithArticleLower="Vanuatu"
+DisplayNamePossessive="de Vanuatu"
+DisplayAdjective="de Vanuatu"

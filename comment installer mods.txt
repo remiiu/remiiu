@@ -1,0 +1,46 @@
+Coller DefaultModOptions.ini dans le dossier à créer:
+/home/utilisateur/.steam/steam/steamapps/common/XCOM 2/XComGame/Mods
+Coller les mods décompréssés chacun dans leurs dossiers respectifs dans :
+/home/utilisateur/.steam/steam/steamapps/common/XCOM 2/XComGame/Mods
+
+OU ALORS :
+
+
+Créer un dossier mods dans
+/home/utilisateur/.steam/steam/steamapps/common/XCOM 2/XComGame/
+Coller les mods en décompressant les fichiers chacuns dans un dossier.
+
+2) Write down file names of .XComMod files of all mods that you wish to use, without the extension. For example, if the file name is AugmentsWotCCodexBegone.XComMod, then write down AugmentsWotCCodexBegone.
+
+You will need these names later.
+
+3) Locate your DefaultModOptions.ini file:
+
+Use this file if you intend to play vanilla XCOM 2:
+
+..\XCOM 2\XComGame\Config\DefaultModOptions.ini
+
+Use this file if you intend to play XCOM 2 War of the Chosen expansion:
+
+..\XCOM 2\XCom2-WarOfTheChosen\XComGame\Config\DefaultModOptions.ini
+
+4) Open that file. Under the [Engine.XComModOptions], add a line for each mod ActiveMods="ModFilenameYouCopiedExactly". For example:
+
+[Engine.XComModOptions]
+
+ActiveMods="TerrorFromTheDerp"
+ActiveMods="AnnounceDemo"
+ActiveMods="AvengerAssembled"
+ActiveMods="Squadsize_EU"
+
+All done. You can now launch the game normally and play with mods. Notes:
+
+    Mods may not be detected on your first launch of the game. So if nothing works, try launching the game again.
+    The order of modnames in this file does not matter.
+
+
+
+
+
+
+

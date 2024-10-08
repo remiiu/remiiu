@@ -1,0 +1,1 @@
+﻿ShowMeTheSkills allows you to view your soldiers skills in the squad selection view.

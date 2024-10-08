@@ -1,0 +1,3 @@
+// This is an Unreal Script
+[RM_SeqAct_ResistanceSpawn]
+ResistanceRecruit="<XGParam:StrValue1/!LastName/> was part of a local resistance cell helping out XCOM on a recent operation. As one of the surviving cell members, they've been recruited into XCOM for performance in the field."

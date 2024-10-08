@@ -1,0 +1,30 @@
+[RM_Terror_Defence X2MissionTemplate]
++DisplayName="저항군 피난처 방어하기"
++Briefing="피난처 방어 - 어드벤트 포위 공격"
++PostMissionType="저항군 피난처 방어하기"
++BriefingImage="img:///UILibrary_Common.Xcom_default"
++ObjectiveTextPools[0]="모든 적군 처치하기"
++ObjectiveTextPools[1]="민간인들이 대피하는 동안 피난처 방어하기"
++PreMissionNarratives[0]="X2NarrativeMoments.TACTICAL.Unique.Central_Unique_Missions_Terror_Attack"
++PreMissionNarratives[1]="X2NarrativeMoments.TACTICAL.Unique.T_Unique_Missions_Terror_Attack_Central_02"
++PreMissionNarratives[2]="X2NarrativeMoments.TACTICAL.Unique.T_Unique_Missions_Terror_Attack_Central_03"
++PreMissionNarratives[3]="X2NarrativeMoments.TACTICAL.Unique.T_Unique_Missions_Terror_Attack_Central_04"
++PreMissionNarratives[4]="X2NarrativeMoments.TACTICAL.Unique.T_Unique_Missions_Terror_Attack_Central_05"
++PreMissionNarratives[5]="X2NarrativeMoments.TACTICAL.Terror.T_Terror_Narrative_Wrappers_01"
++PreMissionNarratives[6]="X2NarrativeMoments.TACTICAL.Terror.T_Terror_Narrative_Wrappers_02"
++PreMissionNarratives[7]="X2NarrativeMoments.TACTICAL.Terror.T_Terror_Narrative_Wrappers_03"
++PreMissionNarratives[8]="X2NarrativeMoments.TACTICAL.Terror.T_Terror_Narrative_Wrappers_04"
++PreMissionNarratives[9]="X2NarrativeMoments.TACTICAL.Terror.T_Terror_Narrative_Wrappers_05"
+
+[MissionTimers]
+TimerTerrorDefenceTitle="어드벤트 포위 공격 방어하기"
+TimerTerrorDefenceSubtitle="피난 완료까지 남은 턴"
+
+[RM_Terror_Defence X2MissionNarrativeTemplate]
++ObjectiveTextPools[0]="어드벤트 포위 공격 방어하기"
++ObjectiveTextPools[1]="모든 적군 처치하기"
++ObjectiveTextPools[2]="모든 XCOM 병사 탈출시키기"
+
+;Dialogue proxies
+ObjectiveTextPools[3]="센트럴"
+ObjectiveTextPools[4]="메나스 1-5, 저항군 전사들은 이미 여기서 많은 희생을 치렀다. 그들과 교대해 민간인들이 여길 빠져나가는 동안 방어선을 유지하라."

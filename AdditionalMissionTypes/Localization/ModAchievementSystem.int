@@ -1,0 +1,29 @@
+[RM_AMT_Fighter MAS_X2AchievementTemplate]
+strTitle="A New Fighter Joins The Battle!"
+strShortDesc="Chrom still feels left out even in this game."
+strLongDesc="Go on a mission and have resistance reinforcements appear. If they survive the mission, you even get to keep them."
+strCategory="Additional Mission Types"
+
+[RM_AMT_HavenComplete MAS_X2AchievementTemplate]
+strTitle="Siegebreaker"
+strShortDesc="XCOM has some elite Rainbow operatives, as it turns out."
+strLongDesc="Complete a haven siege mission by holding out until the timer expires, and clearing out all enemies."
+strCategory="Additional Mission Types"
+
+[RM_AMT_HavenEvac MAS_X2AchievementTemplate]
+strTitle="The First Transport Is Away"
+strShortDesc="Well, XCOM's only transport, anyway."
+strLongDesc="Complete a haven siege mission by holding out until the timer expires, and evacing from the mission."
+strCategory="Additional Mission Types"
+
+[RM_AMT_Firebrand MAS_X2AchievementTemplate]
+strTitle="Wave-off"
+strShortDesc="Surprise!"
+strLongDesc="Go on a mission type where Firebrand needs to leave the area of operations for a period of time."
+strCategory="Additional Mission Types"
+
+[RM_AMT_VIP_Dead MAS_X2AchievementTemplate]
+strTitle="Shouldn't Have Done That"
+strShortDesc="Now ADVENT's going be really mad."
+strLongDesc="On a PR Tour mission, kill the VIP instead of knocking them out, increasing the pace of reinforcements."
+strCategory="Additional Mission Types"

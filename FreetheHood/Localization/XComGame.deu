@@ -1,0 +1,77 @@
+[Hat_Capnbubs_Beret_M X2BodyPartTemplate]
+DisplayName="Feldbarett"
+
+[Hat_Capnbubs_Beret_F X2BodyPartTemplate]
+DisplayName="Feldbarett"
+
+[Hat_Capnbubs_BeretBadge_M X2BodyPartTemplate]
+DisplayName="Dienstbarett"
+
+[Hat_Capnbubs_BeretBadge_F X2BodyPartTemplate]
+DisplayName="Dienstbarett"
+
+[Hat_Capnbubs_HeadsetBallcap_M X2BodyPartTemplate]
+DisplayName="Headset mit Ballcap"
+
+[Hat_Capnbubs_HeadsetBallcapReverse_M X2BodyPartTemplate]
+DisplayName="Headset mit umgekehrter Ballcap"
+
+[Hat_Capnbubs_HeadsetBallcap_F X2BodyPartTemplate]
+DisplayName="Headset mit Ballcap"
+
+[Hat_Capnbubs_HeadsetBallcapReverse_F X2BodyPartTemplate]
+DisplayName="Headset umgekehrter Ballcap"
+
+[Capnbubs_BalGoggles_M X2BodyPartTemplate]
+DisplayName="Ballistische Brille"
+
+[Capnbubs_BalGoggles_F X2BodyPartTemplate]
+DisplayName="Ballistische Brille"
+
+[Capnbubs_BalGogglesClear_M X2BodyPartTemplate]
+DisplayName="Klare ballistische Brille"
+
+[Capnbubs_BalGogglesClear_F X2BodyPartTemplate]
+DisplayName="Klare ballistische Brille"
+
+[Hat_Capnbubs_BalGoggles_M X2BodyPartTemplate]
+DisplayName="Ballistische Brille"
+
+[Hat_Capnbubs_BalGoggles_F X2BodyPartTemplate]
+DisplayName="Ballistische Brille"
+
+[Capnbubs_TechMask_M X2BodyPartTemplate]
+DisplayName="Taktikmaske"
+
+[Capnbubs_TechMask_F X2BodyPartTemplate]
+DisplayName="Taktikmaske"
+
+[Capnbubs_Helmet_Kevlar1_M X2BodyPartTemplate]
+DisplayName="Kevlarhelm 1"
+
+[Capnbubs_Helmet_Kevlar1_F X2BodyPartTemplate]
+DisplayName="Kevlarhelm 1"
+
+[Capnbubs_Helmet_Kevlar1Balaclava_M X2BodyPartTemplate]
+DisplayName="Kevlarhelm 1 mit Balaclava"
+
+[Capnbubs_Helmet_Kevlar1Balaclava_F X2BodyPartTemplate]
+DisplayName="Kevlarhelm 1 mit Balaclava"
+
+[Capnbubs_Helmet_Balaclava_M X2BodyPartTemplate]
+DisplayName="Balaclava"
+
+[Capnbubs_Helmet_Balaclava_F X2BodyPartTemplate]
+DisplayName="Balaclava"
+
+[Hat_Capnbubs_Gasmask_M X2BodyPartTemplate]
+DisplayName="Gasmaske"
+
+[Hat_Capnbubs_Gasmask_F X2BodyPartTemplate]
+DisplayName="Gasmaske"
+
+[Capnbubs_Helmet_Kevlar1Gasmask_M X2BodyPartTemplate]
+DisplayName="Kevlarhelm 1 mit Gasmaske"
+
+[Capnbubs_Helmet_Kevlar1Gasmask_F X2BodyPartTemplate]
+DisplayName="Kevlarhelm 1 mit Gasmaske"

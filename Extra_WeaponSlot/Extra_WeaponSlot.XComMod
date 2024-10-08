@@ -1,0 +1,4 @@
+﻿[mod]
+publishedFileId=0
+Title=Extra_WeaponSlot
+Description=Changes all default weapons to have 3 upgrade slots and exposes the variable in an .ini file.

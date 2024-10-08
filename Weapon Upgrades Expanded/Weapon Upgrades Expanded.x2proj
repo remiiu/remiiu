@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>70e7e859-c8d0-485b-907c-861ae54133fc</Guid>
+    <Name>Weapon Upgrades Expanded</Name>
+    <Description>This mod rebalances the weapon modifications available, making early game upgrades more viable and powerful without breaking late-game balance.
+
+This mod will also add a fourth "Prototype" tier of weapon upgrades, as well as additional upgrade types.</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>Weapon Upgrades Expanded</AssemblyName>
+    <RootNamespace>Weapon Upgrades Expanded</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Content\" />
+    <Folder Include="Localization\" />
+    <Folder Include="Weapon Upgrades Expanded" />
+    <Folder Include="Src\" />
+    <Folder Include="Src\WeaponUpgradesExpanded\" />
+    <Folder Include="Src\WeaponUpgradesExpanded\Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config\XComGameCore.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ReadMe.txt" />
+    <Content Include="ModPreview.jpg" />
+    <Content Include="Config\XComEditor.ini" />
+    <Content Include="Config\XComEngine.ini" />
+    <Content Include="Config\XComGame.ini" />
+    <Content Include="Localization\XComGame.int" />
+    <Content Include="Src\WeaponUpgradesExpanded\Classes\X2Ability_ExpandedUpgradeAbilities.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\WeaponUpgradesExpanded\Classes\X2DownloadableContentInfo_WeaponUpgradesExpanded.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\WeaponUpgradesExpanded\Classes\X2Item_ExpandedUpgrades.uc">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
+</Project>

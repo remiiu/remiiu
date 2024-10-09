@@ -101,3 +101,15 @@ ActiveMods="ImTooFancyForThouseAyys"
 ActiveMods="CatEars"
 
 ActiveMods="CombinedPiercings"
+
+ActiveMods="MafiaTattoos"
+ActiveMods="AllSoldiersGainXP"
+ActiveMods="FreeCameraRotation"
+ActiveMods="DEAdamJensenVP"
+ActiveMods="ExperimentalItemUnlock"
+ActiveMods="Agent47Voicepack"
+ActiveMods="DavidHasselhoffVoicepack"
+ActiveMods="WolverineVoicepack"
+ActiveMods="ShowEnemiesonMissionPlanning"
+ActiveMods="LifetimeStats"
+

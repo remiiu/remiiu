@@ -1,5 +1,6 @@
 Sauvegarde de MODS pour XCOM 2 (non WOTC)
 Il en manque, le reste est sur nexus
+
 Penser à décompresser certains fichiers, github ne supporte que 25 mo max par fichier
 
 
